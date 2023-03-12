@@ -1,0 +1,75 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+  margin-top: 50px;
+}
+
+.form{
+
+  margin-top: 40px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 90%;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+  text-align: center;
+  padding: 8px;
+  font-size: 32px;
+}
+
+tr{
+  text-align: center;
+}
+
+th {
+  background-color: rgb(117, 201, 250);
+}
+
+td {
+  background-color: rgb(205, 235, 253);
+}
+
+td input{
+  width: 20px;
+  height: 40px;
+  font-size: 1.2rem;
+
+}
+
+form {
+  display: flex;
+  gap: 5px;
+}
+
+form input{
+  width: 340px;
+ 
+  font-size: 1.4rem;
+  border-radius: 5px;
+
+}
+
+form td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+form * {
+  font-size: 28px;
+}
+
+.multi_div{
+  height: 500px;
+}
+
+.multi_input{
+  width: 600px;
+}

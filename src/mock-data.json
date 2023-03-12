@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "itemName": "Sprite 200ml Can",
+    "orderBy":"2",
+    "amount":"£0.10"
+  },
+  {
+    "id": 2,
+    "itemName": "Pepsi 200ml Can",
+    "orderBy":"1",
+    "amount":"£0.10"
+  },
+  {
+    "id": 3,
+    "itemName": "Fanta 200ml Can",
+    "orderBy":"3",
+    "amount":"£0.10"
+  },
+  {
+    "id": 4,
+    "itemName": "Coca-Cola 200ml Can",
+    "orderBy":"2",
+    "amount":"£0.15"
+  },
+  {
+    "id": 5,
+    "itemName": "Sprite 200ml Can",
+    "orderBy":"1",
+    "amount":"£0.10"
+  }
+]
